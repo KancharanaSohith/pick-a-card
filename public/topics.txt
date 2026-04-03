@@ -1,0 +1,75 @@
+# SpeakUp — topics for client review (one per line)
+# Format: Topic text - Mood
+# Mood must be exactly: Casual, Deep, Professional, or Personal
+# IDs and speaking hints live only in topics.json — update JSON after you settle wording here
+Challenges of Motherhood - Deep
+What would you want future generations to say about ours? - Deep
+The most important lesson a failure taught you - Personal
+Is social media making us more lonely? - Professional
+What does 'home' feel like to you? - Personal
+The future of Artificial Intelligence - Professional
+Your favorite childhood memory - Casual
+The importance of travel - Casual
+If you could have dinner with any historical figure - Casual
+The impact of climate change on our daily lives - Deep
+The power of vulnerability - Deep
+How to stay motivated in a busy world - Professional
+The best book you've ever read - Casual
+The role of art in society - Deep
+Your dream job and why - Personal
+The benefits of a morning routine - Professional
+The ethics of space exploration - Deep
+A person who has influenced you the most - Personal
+The importance of mental health awareness - Deep
+How technology has changed education - Professional
+The joy of cooking for others - Casual
+The future of remote work - Professional
+The significance of the moon landing - Deep
+Your favorite way to spend a rainy day - Casual
+The impact of music on our emotions - Deep
+The importance of learning a second language - Professional
+The challenges of urban living - Deep
+The role of sports in building character - Professional
+Your most adventurous travel experience - Personal
+The ethics of genetic engineering - Deep
+The importance of kindness in everyday life - Deep
+How to build a successful team - Professional
+The future of sustainable energy - Deep
+Your favorite hobby and how you started - Casual
+The impact of the internet on privacy - Professional
+The importance of storytelling - Deep
+The challenges of starting a business - Professional
+Your favorite movie and why it resonates - Casual
+The role of community in our lives - Deep
+The impact of fast fashion on the environment - Deep
+The importance of critical thinking - Professional
+Your dream travel destination - Casual
+The future of transportation - Professional
+The role of humor in communication - Casual
+The importance of lifelong learning - Professional
+The impact of social media on body image - Deep
+Your favorite holiday tradition - Casual
+The role of empathy in leadership - Professional
+The future of work-life balance - Deep
+The importance of preserving our oceans - Deep
+A childhood toy you'll never forget - Personal
+The most difficult decision you've ever made - Personal
+A place that makes you feel completely at peace - Personal
+Your proudest moment so far - Personal
+A quality you admire most in others - Personal
+A habit you're trying to build or break - Personal
+Your favorite way to recharge after a long day - Personal
+A piece of advice that changed your life - Personal
+The most meaningful gift you've ever received - Personal
+A fear you've successfully overcome - Personal
+Your most cherished family heirloom - Personal
+The first time you felt like an adult - Personal
+A dream you're still working towards - Personal
+The most magical place you've ever visited - Personal
+A secret talent you wish you could share - Personal
+The best piece of advice you'd give your younger self - Personal
+A moment you felt truly understood by someone - Personal
+Your favorite way to express creativity - Personal
+The most important value you live by - Personal
+A book or movie that changed your worldview - Personal
+What would you do differently if you were in your 20s again? - Personal

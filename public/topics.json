@@ -1,0 +1,712 @@
+[
+  {
+    "id": 1,
+    "text": "Challenges of Motherhood",
+    "mood": "Deep",
+    "hints": [
+      "The shift in identity",
+      "The balance of self-care and caregiving",
+      "Societal expectations vs reality"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "What would you want future generations to say about ours?",
+    "mood": "Deep",
+    "hints": [
+      "Our environmental legacy",
+      "Technological advancements",
+      "How we treated one another"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "The most important lesson a failure taught you",
+    "mood": "Personal",
+    "hints": [
+      "The specific situation",
+      "The immediate emotional response",
+      "How it changed your future approach"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Is social media making us more lonely?",
+    "mood": "Professional",
+    "hints": [
+      "Quality vs Quantity of connections",
+      "The highlight reel effect",
+      "The loss of face-to-face nuance"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "What does 'home' feel like to you?",
+    "mood": "Personal",
+    "hints": [
+      "Sensory details (smells, sounds)",
+      "People who make a place home",
+      "The feeling of safety and belonging"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "The future of Artificial Intelligence",
+    "mood": "Professional",
+    "hints": [
+      "Impact on jobs",
+      "Ethical considerations",
+      "Potential for human enhancement"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Your favorite childhood memory",
+    "mood": "Casual",
+    "hints": [
+      "Who was there?",
+      "What were you doing?",
+      "Why does it stick with you?"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "The importance of travel",
+    "mood": "Casual",
+    "hints": [
+      "Broadening perspectives",
+      "Stepping out of comfort zones",
+      "Cultural appreciation"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "If you could have dinner with any historical figure",
+    "mood": "Casual",
+    "hints": [
+      "Who would it be?",
+      "What would you ask them?",
+      "What would you eat?"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "The impact of climate change on our daily lives",
+    "mood": "Deep",
+    "hints": [
+      "Extreme weather events",
+      "Changes in food production",
+      "Personal responsibility"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "The power of vulnerability",
+    "mood": "Deep",
+    "hints": [
+      "Brene Brown's influence",
+      "Connecting through shared struggles",
+      "Overcoming the fear of judgment"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "How to stay motivated in a busy world",
+    "mood": "Professional",
+    "hints": [
+      "Setting small goals",
+      "The importance of rest",
+      "Finding your 'why'"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "The best book you've ever read",
+    "mood": "Casual",
+    "hints": [
+      "The plot summary",
+      "How it affected your thinking",
+      "Who you would recommend it to"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "The role of art in society",
+    "mood": "Deep",
+    "hints": [
+      "Art as a mirror to culture",
+      "Art as a form of protest",
+      "The emotional impact of creativity"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Your dream job and why",
+    "mood": "Personal",
+    "hints": [
+      "The daily tasks",
+      "The impact you'd make",
+      "The skills you'd use"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "The benefits of a morning routine",
+    "mood": "Professional",
+    "hints": [
+      "Increased productivity",
+      "Mental clarity",
+      "Personal time before the rush"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "The ethics of space exploration",
+    "mood": "Deep",
+    "hints": [
+      "Cost vs benefit",
+      "Potential for colonization",
+      "Preserving other worlds"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "A person who has influenced you the most",
+    "mood": "Personal",
+    "hints": [
+      "Their qualities",
+      "A specific piece of advice they gave",
+      "How you emulate them today"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "The importance of mental health awareness",
+    "mood": "Deep",
+    "hints": [
+      "Reducing stigma",
+      "Access to resources",
+      "Supporting friends and family"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "How technology has changed education",
+    "mood": "Professional",
+    "hints": [
+      "Online learning platforms",
+      "Access to information",
+      "The digital divide"
+    ]
+  },
+  {
+    "id": 21,
+    "text": "The joy of cooking for others",
+    "mood": "Casual",
+    "hints": [
+      "Sharing a meal",
+      "The creative process",
+      "Cultural traditions"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "The future of remote work",
+    "mood": "Professional",
+    "hints": [
+      "Work-life balance",
+      "Impact on city centers",
+      "Collaboration tools"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "The significance of the moon landing",
+    "mood": "Deep",
+    "hints": [
+      "Human achievement",
+      "The Cold War context",
+      "Inspiring future scientists"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Your favorite way to spend a rainy day",
+    "mood": "Casual",
+    "hints": [
+      "Activities (reading, movies)",
+      "The atmosphere",
+      "Comfort foods"
+    ]
+  },
+  {
+    "id": 25,
+    "text": "The impact of music on our emotions",
+    "mood": "Deep",
+    "hints": [
+      "Music therapy",
+      "Shared experiences at concerts",
+      "Personal soundtracks"
+    ]
+  },
+  {
+    "id": 26,
+    "text": "The importance of learning a second language",
+    "mood": "Professional",
+    "hints": [
+      "Cognitive benefits",
+      "Career opportunities",
+      "Cultural empathy"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "The challenges of urban living",
+    "mood": "Deep",
+    "hints": [
+      "Cost of living",
+      "Noise and pollution",
+      "Access to green spaces"
+    ]
+  },
+  {
+    "id": 28,
+    "text": "The role of sports in building character",
+    "mood": "Professional",
+    "hints": [
+      "Teamwork and leadership",
+      "Resilience in defeat",
+      "Discipline and practice"
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Your most adventurous travel experience",
+    "mood": "Personal",
+    "hints": [
+      "The destination",
+      "The biggest challenge faced",
+      "What you learned about yourself"
+    ]
+  },
+  {
+    "id": 30,
+    "text": "The ethics of genetic engineering",
+    "mood": "Deep",
+    "hints": [
+      "Designer babies",
+      "Curing diseases",
+      "Long-term consequences"
+    ]
+  },
+  {
+    "id": 31,
+    "text": "The importance of kindness in everyday life",
+    "mood": "Deep",
+    "hints": [
+      "Small acts of kindness",
+      "The ripple effect",
+      "Kindness to oneself"
+    ]
+  },
+  {
+    "id": 32,
+    "text": "How to build a successful team",
+    "mood": "Professional",
+    "hints": [
+      "Diversity of thought",
+      "Clear communication",
+      "Trust and psychological safety"
+    ]
+  },
+  {
+    "id": 33,
+    "text": "The future of sustainable energy",
+    "mood": "Deep",
+    "hints": [
+      "Solar and wind power",
+      "Battery technology",
+      "Reducing carbon footprints"
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Your favorite hobby and how you started",
+    "mood": "Casual",
+    "hints": [
+      "The initial spark",
+      "The learning curve",
+      "The community involved"
+    ]
+  },
+  {
+    "id": 35,
+    "text": "The impact of the internet on privacy",
+    "mood": "Professional",
+    "hints": [
+      "Data collection",
+      "Social media footprints",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "id": 36,
+    "text": "The importance of storytelling",
+    "mood": "Deep",
+    "hints": [
+      "Preserving history",
+      "Connecting with others",
+      "The power of narrative"
+    ]
+  },
+  {
+    "id": 37,
+    "text": "The challenges of starting a business",
+    "mood": "Professional",
+    "hints": [
+      "Financial risk",
+      "Finding a market",
+      "Persistence and grit"
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Your favorite movie and why it resonates",
+    "mood": "Casual",
+    "hints": [
+      "The themes explored",
+      "The performances",
+      "The visual style"
+    ]
+  },
+  {
+    "id": 39,
+    "text": "The role of community in our lives",
+    "mood": "Deep",
+    "hints": [
+      "Support systems",
+      "Shared values",
+      "Belonging"
+    ]
+  },
+  {
+    "id": 40,
+    "text": "The impact of fast fashion on the environment",
+    "mood": "Deep",
+    "hints": [
+      "Waste and pollution",
+      "Labor practices",
+      "Sustainable alternatives"
+    ]
+  },
+  {
+    "id": 41,
+    "text": "The importance of critical thinking",
+    "mood": "Professional",
+    "hints": [
+      "Evaluating information",
+      "Problem-solving",
+      "Avoiding biases"
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Your dream travel destination",
+    "mood": "Casual",
+    "hints": [
+      "The sights to see",
+      "The food to try",
+      "The overall vibe"
+    ]
+  },
+  {
+    "id": 43,
+    "text": "The future of transportation",
+    "mood": "Professional",
+    "hints": [
+      "Electric vehicles",
+      "Autonomous driving",
+      "Hyperloops"
+    ]
+  },
+  {
+    "id": 44,
+    "text": "The role of humor in communication",
+    "mood": "Casual",
+    "hints": [
+      "Breaking the ice",
+      "Relieving tension",
+      "Building rapport"
+    ]
+  },
+  {
+    "id": 45,
+    "text": "The importance of lifelong learning",
+    "mood": "Professional",
+    "hints": [
+      "Adapting to change",
+      "Personal growth",
+      "Staying curious"
+    ]
+  },
+  {
+    "id": 46,
+    "text": "The impact of social media on body image",
+    "mood": "Deep",
+    "hints": [
+      "Filtered reality",
+      "Comparison trap",
+      "Promoting body positivity"
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Your favorite holiday tradition",
+    "mood": "Casual",
+    "hints": [
+      "The origins",
+      "The people involved",
+      "The special foods"
+    ]
+  },
+  {
+    "id": 48,
+    "text": "The role of empathy in leadership",
+    "mood": "Professional",
+    "hints": [
+      "Understanding team needs",
+      "Building trust",
+      "Conflict resolution"
+    ]
+  },
+  {
+    "id": 49,
+    "text": "The future of work-life balance",
+    "mood": "Deep",
+    "hints": [
+      "The 4-day work week",
+      "Setting boundaries",
+      "The value of leisure"
+    ]
+  },
+  {
+    "id": 50,
+    "text": "The importance of preserving our oceans",
+    "mood": "Deep",
+    "hints": [
+      "Biodiversity",
+      "Climate regulation",
+      "Reducing plastic waste"
+    ]
+  },
+  {
+    "id": 51,
+    "text": "A childhood toy you'll never forget",
+    "mood": "Personal",
+    "hints": [
+      "What was it?",
+      "Who gave it to you?",
+      "Where is it now?"
+    ]
+  },
+  {
+    "id": 52,
+    "text": "The most difficult decision you've ever made",
+    "mood": "Personal",
+    "hints": [
+      "The context",
+      "The internal struggle",
+      "The outcome and lessons learned"
+    ]
+  },
+  {
+    "id": 53,
+    "text": "A place that makes you feel completely at peace",
+    "mood": "Personal",
+    "hints": [
+      "The location",
+      "The sensory details",
+      "Why it has this effect on you"
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Your proudest moment so far",
+    "mood": "Personal",
+    "hints": [
+      "The achievement",
+      "The hard work involved",
+      "How it felt to succeed"
+    ]
+  },
+  {
+    "id": 55,
+    "text": "A quality you admire most in others",
+    "mood": "Personal",
+    "hints": [
+      "The specific quality",
+      "Examples of people who have it",
+      "Why it's important to you"
+    ]
+  },
+  {
+    "id": 56,
+    "text": "A habit you're trying to build or break",
+    "mood": "Personal",
+    "hints": [
+      "The habit",
+      "The motivation behind the change",
+      "The progress you've made"
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Your favorite way to recharge after a long day",
+    "mood": "Personal",
+    "hints": [
+      "The activity",
+      "The atmosphere",
+      "How it makes you feel"
+    ]
+  },
+  {
+    "id": 58,
+    "text": "A piece of advice that changed your life",
+    "mood": "Personal",
+    "hints": [
+      "The advice",
+      "Who said it?",
+      "How you applied it"
+    ]
+  },
+  {
+    "id": 59,
+    "text": "The most meaningful gift you've ever received",
+    "mood": "Personal",
+    "hints": [
+      "What was it?",
+      "The story behind it",
+      "Why it's special"
+    ]
+  },
+  {
+    "id": 60,
+    "text": "A fear you've successfully overcome",
+    "mood": "Personal",
+    "hints": [
+      "The fear",
+      "The steps you took",
+      "The feeling of freedom"
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Your most cherished family heirloom",
+    "mood": "Personal",
+    "hints": [
+      "What is it?",
+      "The story behind it",
+      "Why it's meaningful to you"
+    ]
+  },
+  {
+    "id": 62,
+    "text": "The first time you felt like an adult",
+    "mood": "Personal",
+    "hints": [
+      "The specific moment",
+      "The responsibility you took on",
+      "How your perspective shifted"
+    ]
+  },
+  {
+    "id": 63,
+    "text": "A dream you're still working towards",
+    "mood": "Personal",
+    "hints": [
+      "The dream",
+      "The obstacles you've faced",
+      "What keeps you going"
+    ]
+  },
+  {
+    "id": 64,
+    "text": "The most magical place you've ever visited",
+    "mood": "Personal",
+    "hints": [
+      "The location",
+      "The atmosphere",
+      "Why it felt enchanted"
+    ]
+  },
+  {
+    "id": 65,
+    "text": "A secret talent you wish you could share",
+    "mood": "Personal",
+    "hints": [
+      "What is the talent?",
+      "Why do you keep it hidden?",
+      "How did you learn it?"
+    ]
+  },
+  {
+    "id": 66,
+    "text": "The best piece of advice you'd give your younger self",
+    "mood": "Personal",
+    "hints": [
+      "The advice",
+      "The context of your younger life",
+      "How it would have changed things"
+    ]
+  },
+  {
+    "id": 67,
+    "text": "A moment you felt truly understood by someone",
+    "mood": "Personal",
+    "hints": [
+      "The situation",
+      "The person involved",
+      "The feeling of connection"
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Your favorite way to express creativity",
+    "mood": "Personal",
+    "hints": [
+      "The medium (art, writing, etc.)",
+      "The feeling of flow",
+      "What you hope to achieve"
+    ]
+  },
+  {
+    "id": 69,
+    "text": "The most important value you live by",
+    "mood": "Personal",
+    "hints": [
+      "The value",
+      "How it guides your decisions",
+      "Where it came from"
+    ]
+  },
+  {
+    "id": 70,
+    "text": "A book or movie that changed your worldview",
+    "mood": "Personal",
+    "hints": [
+      "The title",
+      "The specific lesson or theme",
+      "How you see the world differently now"
+    ]
+  },
+  {
+    "id": 71,
+    "text": "What would you do differently if you were in your 20s again?",
+    "mood": "Personal",
+    "hints": [
+      "One choice you would revisit",
+      "What you would protect or prioritize",
+      "What advice you would give your past self"
+    ]
+  }
+]
